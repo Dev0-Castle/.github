@@ -39,7 +39,7 @@ solving problems, and turning ideas into real software.
 <a href="https://github.com/QZTA">
 <img src="https://github.com/QZTA.png" width="100px;" alt="QZTA"/>
 <br />
-<b>QZTA</b>
+<b>Abdullah</b>
 <br />
 <sub>@QZTA</sub>
 </a>
@@ -50,7 +50,7 @@ solving problems, and turning ideas into real software.
 <a href="https://github.com/DHME1">
 <img src="https://github.com/DHME1.png" width="100px;" alt="DHME1"/>
 <br />
-<b>DHME1</b>
+<b>CAF</b>
 <br />
 <sub>@DHME1</sub>
 </a>
@@ -117,9 +117,9 @@ Our stack keeps evolving as we build.
 
 🏗️ Project #1
 
-Coming soon…
+Al-Ahli Fan app
 
-Our next creation is being forged inside the castle.
+
 
 </td>
 <td width="50%">
