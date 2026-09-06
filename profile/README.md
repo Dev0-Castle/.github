@@ -12,54 +12,99 @@ learning together, and turning code into things people can actually use.
 
 ⸻
 
-<div align="center">
+🚀 Featured Projects
 
-🚀 Featured Project
+<div align="center">
 
 💚 ALAHLI FAN
 
 Everything an Al-Ahli fan needs, in one place.
 
-An iPhone app built for Al-Ahli supporters, bringing matches,
-club information and fan features together in one experience.
+An iPhone app built for Al-Ahli supporters, bringing matches, standings,
+players, chants and match-day features together in one experience.
 
 <br>
+<br>
+
+🏆 #1 Sports App on the Saudi App Store
+
 </div>
 
 ⚽ Features
 
-* 🗓️ Upcoming matches and full-season schedule
+* 🗓️ Upcoming matches & full-season schedule
 * ✅ Match results
 * 🏆 League standings
-* 👥 First-team squad
+* 👥 First-team squad & player information
 * 🎶 Al-Ahli chants
 * ⏳ Live countdown to the next match
-* 🏟️ Stadium and competition information
+* 🏟️ Stadium & competition information
 * 🎟️ Match ticket links
-* 🗺️ Stadium location
-* 📅 Apple, Google and Outlook calendar integration
+* 🗺️ Stadium locations
+* 📅 Apple, Google & Outlook calendar integration
 * 📱 Home Screen & Lock Screen widgets
-* 🔔 Match notifications
+* 🔔 Custom match notifications
 * 🌙 Light & Dark Mode
 * 🌐 Arabic & English
-* 📴 Access to previously loaded data while offline
+* 📴 Previously loaded data available offline
 * 🔐 No account required
 * 🚫 No ads
 * 🛡️ No user data collection
-
-<div align="center">
-
-💚 Built for the fans.
-
-Available now on the App Store.
-
-</div>
 
 ⸻
 
 <div align="center">
 
+📖 Qiraat10
+
+المصحف الجامع للقراءات العشر
+
+A comprehensive digital platform for Qur’an recitation, Qira’at, memorization and review.
+
+Built for students of the Qur’an, Huffaz and students of Qira’at, combining
+the Mushaf, the ten Qira’at, classical texts and memorization tools in one platform.
+
+<br>
+</div>
+
+📚 What’s Inside?
+
+* 📖 المصحف الجامع للقراءات العشر
+* 🔟 القراءات العشر ورواتها
+* 📝 فرش القراءات وأصولها وأوجهها
+* 📜 من طريق الشاطبية والدرة
+* 🧠 لوحة متكاملة للحفظ والمراجعة
+* 🔖 حفظ آخر موضع في المصحف
+* 📅 إنشاء خطة مراجعة يومية
+* 🔥 متابعة سلسلة أيام المراجعة
+* 📚 مكتبة لحفظ المتون
+* 🎓 حرز الأماني ووجه التهاني — الشاطبية
+* 📜 المقدمة الجزرية
+* 👶 تحفة الأطفال
+* 🎧 صوتيات الشاطبية
+* 🔁 تكرار الأبيات للمساعدة على الحفظ
+* 📊 إنشاء ورد يومي للمتون
+* 📚 علوم التجويد
+* 🔎 دليل للمصطلحات القرائية
+* 🧩 متشابهات القرآن الكريم
+* 🔍 البحث في المتشابهات والسور والآيات
+* ⭐ حفظ المواضع المهمة
+* 💾 حفظ التقدم محليًا على الجهاز
+* 📦 النسخ الاحتياطي والاستعادة
+
+<div align="center">
+
+Qiraat10 brings traditional Qira’at study tools into a modern digital experience.
+
+🌐 qiraat10.com
+
+</div>
+
+⸻
+
 👨‍💻 The Developers
+
+<div align="center">
 
 Different developers. Different skills. One castle.
 
@@ -130,14 +175,12 @@ Different developers. Different skills. One castle.
 
 🏰 What is Devs Castle?
 
-Devs Castle is a place where we build together.
+Devs Castle is a group of developers who like turning ideas into real products.
 
-Not just repositories.
+We don’t limit ourselves to one category.
 
-Not just experiments that never leave localhost.
-
-We want to create projects, ship them, improve them,
-and learn from everything that happens along the way.
+From a #1 sports app to a Qira’at and Qur’an platform,
+if an idea is worth building, we’re interested.
 
                          🏰
                    DEV'S CASTLE
@@ -157,34 +200,25 @@ and learn from everything that happens along the way.
 
 ⚔️ How We Build
 
-                   💡 Idea
-                      │
-                      ▼
-                💬 Discussion
-                      │
-                      ▼
-                  🎯 Issue
-                      │
-                      ▼
-                 🌿 Branch
-                      │
-                      ▼
-                  💻 Code
-                      │
-                      ▼
-              🔀 Pull Request
-                      │
-                      ▼
-                 👀 Review
-                      │
-                      ▼
-                  ✅ Merge
-                      │
-                      ▼
-                  🚀 Ship
-                      │
-                      ▼
-               📈 Improve it
+💡 Idea
+   ↓
+💬 Discussion
+   ↓
+🎯 Issue
+   ↓
+🌿 Branch
+   ↓
+💻 Code
+   ↓
+🔀 Pull Request
+   ↓
+👀 Review
+   ↓
+✅ Merge
+   ↓
+🚀 Ship
+   ↓
+📈 Improve
 
 We use GitHub to keep development organized and collaborative.
 
@@ -196,27 +230,28 @@ We use GitHub to keep development organized and collaborative.
 
 ⸻
 
-🧪 What We Like Building
+📦 Our Projects
+
+Project	What is it?	Platform	Status
+💚 ALAHLI FAN	Al-Ahli fan companion	iOS	🟢 Live
+📖 Qiraat10	Qur’an & Ten Qira’at platform	Web	🟢 Live
+
+⸻
+
+🧪 What We Build
 
 📱 Mobile Apps
 🌐 Web Applications
 ⚙️ Developer Tools
 🤖 Automation
-🧠 Experimental Projects
+📚 Educational Platforms
 🏟️ Sports & Fan Experiences
-💡 Whatever sounds fun enough to build
+🧠 Experimental Projects
+💡 Whatever is worth building
 
-Our technology stack isn’t locked to one language or framework.
+We’re not tied to one language, framework, or category.
 
-We choose the tools that fit the project.
-
-⸻
-
-📦 Projects
-
-Project	Platform	Status
-💚 ALAHLI FAN	iPhone	🟢 Live
-More from the Castle	—	🏗️ Building
+We choose the right tools for the project.
 
 ⸻
 
@@ -245,6 +280,6 @@ while (ideas) { build(); }
 
 Devs Castle 🏰
 
-Made by developers who’d rather build the idea than keep talking about it.
+Different developers. Different ideas. One castle.
 
 </div>
